@@ -14,24 +14,26 @@ Send your Forminator Forms data directly to your Google Contacts spreadsheet.
 
 == Description ==
 
-**GSheetConnector for Forminator Forms is an addon plugin**, 
-A bridge between your [WordPress](https://wordpress.org/) based [Forminator Forms](https://wordpress.org/plugins/forminator/) forms and [Google Sheets](https://www.google.com/sheets/about/). 
+**GSheetConnector for Forminator Forms is an addon plugin**,  A bridge between your [WordPress](https://wordpress.org/) based [Forminator Forms](https://wordpress.org/plugins/forminator/) forms and [Google Sheets](https://www.google.com/sheets/about/). 
 ✔🚀 **Quick and Simple to use WordPress Plugin.**
 
 If you're using **[Forminator Forms](https://wordpress.org/plugins/forminator/) by WPMU DEV** to collect data from your website visitors , it's important to have a streamlined process for managing that data. One way to do this is to send Forminator form entry data directly to a Google Sheet. This integration can save your time and effort by eliminating the need to manually transfer data from your form submissions to your spreadsheet.
 
 When a visitor submits their information on your website using GSheetConnector for Forminator Forms, the data they provide is automatically sent to Google Sheets upon form submission in real-time.
 
+[Demo of Forminator Forms Google Sheet Connector](https://demo.gsheetconnector.com/forminator-google-sheet-connector/)
+[Submitted Google Sheet Link](https://docs.google.com/spreadsheets/d/1Ftht9knBeuzcvZlzM4Wz6L8qsV4PiDU5ukFlFq9M6PU/edit?gid=378149633#gid=378149633)
 
+[Test the Forminator Forms Google Sheet Connector Now!](https://tastewp.com/new/?pre-installed-plugin-slug=forminator&pre-installed-plugin-slug=gsheetconnector-forminator)
+[Documentation](https://support.gsheetconnector.com/kb-category/forminator-forms-gsheetconnector)
+[Forminator Forms Google Sheet Connector PRO](https://www.gsheetconnector.com/forminator-forms-google-sheet-connector-pro?wprepo)
 
-= ✨ [💼 Why Use GSheetConnector with Forminator Forms? Benefits and Who Can Use It ]✨ =
+= ✨ [💼 Benefits of Google Sheet Connector Forminator Forms]✨ =
 
-
-** Benefits of Using Forminator GSheetConnector
-   Integrating Forminator Forms with GSheetConnector provides several advantages for users, making form data management seamless and efficient:
+Integrating Forminator Forms with GSheetConnector provides several advantages for users, making form data management seamless and efficient:
 
 ** Real-Time Data Sync
-Automatically sync form submissions to Google Sheets as soon as users submit the form.
+Automatically send form submissions to Google Sheets as soon as users submit the form.
 No manual data entry required, saving time and effort.
 
 ** Centralized Data Management
@@ -40,15 +42,13 @@ All form data is stored in a single Google Sheet, making it easier to organize, 
 ** Streamlined Workflow Automation
 Use Google Sheets to connect with other tools like Zapier, Google Data Studio, or CRM software for advanced automation.
 
-
 ** Ease of Collaboration
 Google Sheets allows multiple users to access, edit, and analyze data simultaneously.
 
 ** Customizable Integration
 Map specific form fields to Google Sheets columns for tailored data organization.
 
-
-**  Who Can Use Forminator GSheetConnector?
+**  Who Can Use Forminator Google Sheet Connector?
 
   👨🏼‍💻 Website Owners and Administrators
   💼 Businesses and Enterprises
@@ -58,14 +58,17 @@ Map specific form fields to Google Sheets columns for tailored data organization
   👨🏻‍💼 Marketers and Analysts
   📣 Event Managers
 
-✅ Benefits for These Users:
+**  Whhich types of forms can be connected with Forminator Google Sheet Connector?
+All this forms which allows to create forms can be connected with Google Sheets
+Forms Like : basic contact form, order form, payment form, email form, feedback widgets, interactive polls with real-time results, buzzfeed-style “no wrong answer” quizzes, service estimators, and registration forms with payment options including PayPal and Stripe.
+
+✅ Benefits for These Plugin:
  - Time-Saving: Eliminate manual data entry.
  - Real-Time Updates: Instant sync of form submissions to Google Sheets.
  - Error Reduction: Minimize data entry mistakes.
  - Easy Sharing: Collaborate with teams using Google Sheets.
  
 Anyone using Forminator Forms on their WordPress website and needing structured, accessible, and real-time data management can use GSheetConnector.
-
 
 = ✨ [Discover the key features of GSheetConnector for Forminator Forms Free Version ] =
 
@@ -95,9 +98,6 @@ Anyone using Forminator Forms on their WordPress website and needing structured,
 
 ** Comprehensive Documentation
    - Our documentation is thorough and includes detailed step-by-step guides for installing and setting up the plugin. It provides all the information you need to effectively utilize our product with ease.
-
-
-
 
 = ✨ [Discover the key features of GSheetConnector for Forminator Forms PRO Version ] =
 
@@ -152,7 +152,6 @@ Anyone using Forminator Forms on their WordPress website and needing structured,
 ** Multi Site Support
    - The Forminator Form Google Sheet Connector supports multi-site (Network Site) functionality.
 
-
 ** Manual Integration
    - For manual integration with Google Cloud, create an account, enable Google Drive and Google Sheets APIs, and follow our  ** [documentation and video guide] (https://wordpress.org/plugins/forminator/).
 
@@ -173,8 +172,6 @@ Anyone using Forminator Forms on their WordPress website and needing structured,
 
 
 👉 [Get Forminator Form GSheetConnector PRO today] (https://www.gsheetconnector.com/forminator-forms-google-sheet-connector-pro?wp-repo)
-
-
 
 = 👑[ Get More From GSheetConnector With Its Premium Plugins ]✨ =
 
@@ -228,7 +225,6 @@ Explore some of our best-selling plugins :
 	For a detailed user guide, check out our [Knowledge base](https://support.gsheetconnector.com/kb-category/forminator-forms-gsheetconnector) Section on our official website or 
         visit our [YouTube channel](https://www.youtube.com/@GSheetConnector) for tutorial videos on our event plugins.
 
-
 ==  🙋‍♂️ GSheetConnector Support: Always Ready to Help You! ==  
 
        GSheetConnector takes pride in providing exceptional support services to ensure that your experience is smooth and hassle-free. Our support team is always ready to assist you with:
@@ -251,15 +247,11 @@ Explore some of our best-selling plugins :
        Documentation(https://support.gsheetconnector.com/kb-category/forminator-forms-gsheetconnector) | Support(https://www.gsheetconnector.com/support) |  Knowledgebase(https://support.gsheetconnector.com/kb
        FAQ(https://www.gsheetconnector.com/faqs)
 
-
-
 ==  📢 Join our community ==  
 
        Join our [Facebook](https://www.facebook.com/gsheetconnectorofficial) community to interact with our users, and share your experiences and queries related to our events plugin.
        Subscribe to our [YouTube channel](https://www.youtube.com/@GSheetConnector) for regular updates and tutorials.
        If you are already a user, please share your reviews on [WordPress](https://profiles.wordpress.org/gsheetconnector/).
-
-
 
 == Installation ==
 
